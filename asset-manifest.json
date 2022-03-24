@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ReasonToSmile/static/css/main.b4ca2f63.css",
-    "main.js": "/ReasonToSmile/static/js/main.0fe0e23a.js",
+    "main.css": "/ReasonToSmile/static/css/main.2350b46e.css",
+    "main.js": "/ReasonToSmile/static/js/main.adf1ca02.js",
     "index.html": "/ReasonToSmile/index.html",
-    "main.b4ca2f63.css.map": "/ReasonToSmile/static/css/main.b4ca2f63.css.map",
-    "main.0fe0e23a.js.map": "/ReasonToSmile/static/js/main.0fe0e23a.js.map"
+    "main.2350b46e.css.map": "/ReasonToSmile/static/css/main.2350b46e.css.map",
+    "main.adf1ca02.js.map": "/ReasonToSmile/static/js/main.adf1ca02.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4ca2f63.css",
-    "static/js/main.0fe0e23a.js"
+    "static/css/main.2350b46e.css",
+    "static/js/main.adf1ca02.js"
   ]
 }
