@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/ReasonToSmile/static/css/main.2350b46e.css",
-    "main.js": "/ReasonToSmile/static/js/main.bce7e39c.js",
+    "main.css": "/ReasonToSmile/static/css/main.950a4a24.css",
+    "main.js": "/ReasonToSmile/static/js/main.f4f11ef7.js",
+    "static/media/paczka.jpeg": "/ReasonToSmile/static/media/paczka.4ef45a024705d3800f3c.jpeg",
+    "static/media/zdjenciedwa.jpeg": "/ReasonToSmile/static/media/zdjenciedwa.bcec9135d59a7df6a441.jpeg",
+    "static/media/jeden.jpeg": "/ReasonToSmile/static/media/jeden.87c2986a37ab399b659d.jpeg",
+    "static/media/zdjenciejeden.jpeg": "/ReasonToSmile/static/media/zdjenciejeden.c673f4b5b8510c706044.jpeg",
+    "static/media/kod.png": "/ReasonToSmile/static/media/kod.0a151656d909ea1dd507.png",
     "index.html": "/ReasonToSmile/index.html",
-    "main.2350b46e.css.map": "/ReasonToSmile/static/css/main.2350b46e.css.map",
-    "main.bce7e39c.js.map": "/ReasonToSmile/static/js/main.bce7e39c.js.map"
+    "main.950a4a24.css.map": "/ReasonToSmile/static/css/main.950a4a24.css.map",
+    "main.f4f11ef7.js.map": "/ReasonToSmile/static/js/main.f4f11ef7.js.map"
   },
   "entrypoints": [
-    "static/css/main.2350b46e.css",
-    "static/js/main.bce7e39c.js"
+    "static/css/main.950a4a24.css",
+    "static/js/main.f4f11ef7.js"
   ]
 }
