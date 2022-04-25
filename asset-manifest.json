@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReasonToSmile/static/css/main.3a9b5327.css",
-    "main.js": "/ReasonToSmile/static/js/main.7a5fcaeb.js",
+    "main.css": "/ReasonToSmile/static/css/main.9c68d62e.css",
+    "main.js": "/ReasonToSmile/static/js/main.cf5a1734.js",
     "static/media/ramiona.jpeg": "/ReasonToSmile/static/media/ramiona.99eece3bce69870c5bca.jpeg",
     "static/media/paczka.jpeg": "/ReasonToSmile/static/media/paczka.4ef45a024705d3800f3c.jpeg",
     "static/media/zdjenciedwa.jpeg": "/ReasonToSmile/static/media/zdjenciedwa.bcec9135d59a7df6a441.jpeg",
@@ -12,11 +12,11 @@
     "static/media/hejcotam.jpeg": "/ReasonToSmile/static/media/hejcotam.5f6590f6d1dbeb158aad.jpeg",
     "static/media/kod.png": "/ReasonToSmile/static/media/kod.0a151656d909ea1dd507.png",
     "index.html": "/ReasonToSmile/index.html",
-    "main.3a9b5327.css.map": "/ReasonToSmile/static/css/main.3a9b5327.css.map",
-    "main.7a5fcaeb.js.map": "/ReasonToSmile/static/js/main.7a5fcaeb.js.map"
+    "main.9c68d62e.css.map": "/ReasonToSmile/static/css/main.9c68d62e.css.map",
+    "main.cf5a1734.js.map": "/ReasonToSmile/static/js/main.cf5a1734.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a9b5327.css",
-    "static/js/main.7a5fcaeb.js"
+    "static/css/main.9c68d62e.css",
+    "static/js/main.cf5a1734.js"
   ]
 }
