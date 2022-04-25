@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/ReasonToSmile/static/css/main.cfbd8905.css",
-    "main.js": "/ReasonToSmile/static/js/main.87fd22ec.js",
+    "main.css": "/ReasonToSmile/static/css/main.3a9b5327.css",
+    "main.js": "/ReasonToSmile/static/js/main.7a5fcaeb.js",
     "static/media/ramiona.jpeg": "/ReasonToSmile/static/media/ramiona.99eece3bce69870c5bca.jpeg",
     "static/media/paczka.jpeg": "/ReasonToSmile/static/media/paczka.4ef45a024705d3800f3c.jpeg",
     "static/media/zdjenciedwa.jpeg": "/ReasonToSmile/static/media/zdjenciedwa.bcec9135d59a7df6a441.jpeg",
+    "static/media/wheniseeuagain.jpeg": "/ReasonToSmile/static/media/wheniseeuagain.5d9311b28ed0781e10fc.jpeg",
     "static/media/jeden.jpeg": "/ReasonToSmile/static/media/jeden.87c2986a37ab399b659d.jpeg",
     "static/media/pistolet.jpeg": "/ReasonToSmile/static/media/pistolet.91abe1fd2bbaf4829185.jpeg",
     "static/media/zdjenciejeden.jpeg": "/ReasonToSmile/static/media/zdjenciejeden.c673f4b5b8510c706044.jpeg",
+    "static/media/hejcotam.jpeg": "/ReasonToSmile/static/media/hejcotam.5f6590f6d1dbeb158aad.jpeg",
     "static/media/kod.png": "/ReasonToSmile/static/media/kod.0a151656d909ea1dd507.png",
     "index.html": "/ReasonToSmile/index.html",
-    "main.cfbd8905.css.map": "/ReasonToSmile/static/css/main.cfbd8905.css.map",
-    "main.87fd22ec.js.map": "/ReasonToSmile/static/js/main.87fd22ec.js.map"
+    "main.3a9b5327.css.map": "/ReasonToSmile/static/css/main.3a9b5327.css.map",
+    "main.7a5fcaeb.js.map": "/ReasonToSmile/static/js/main.7a5fcaeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfbd8905.css",
-    "static/js/main.87fd22ec.js"
+    "static/css/main.3a9b5327.css",
+    "static/js/main.7a5fcaeb.js"
   ]
 }
