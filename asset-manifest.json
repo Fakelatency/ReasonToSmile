@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReasonToSmile/static/css/main.5ed36d17.css",
-    "main.js": "/ReasonToSmile/static/js/main.a43c53c8.js",
+    "main.js": "/ReasonToSmile/static/js/main.d399e5ed.js",
     "static/media/ramiona.jpeg": "/ReasonToSmile/static/media/ramiona.99eece3bce69870c5bca.jpeg",
     "static/media/paczka.jpeg": "/ReasonToSmile/static/media/paczka.4ef45a024705d3800f3c.jpeg",
     "static/media/zdjenciedwa.jpeg": "/ReasonToSmile/static/media/zdjenciedwa.bcec9135d59a7df6a441.jpeg",
@@ -13,10 +13,10 @@
     "static/media/kod.png": "/ReasonToSmile/static/media/kod.0a151656d909ea1dd507.png",
     "index.html": "/ReasonToSmile/index.html",
     "main.5ed36d17.css.map": "/ReasonToSmile/static/css/main.5ed36d17.css.map",
-    "main.a43c53c8.js.map": "/ReasonToSmile/static/js/main.a43c53c8.js.map"
+    "main.d399e5ed.js.map": "/ReasonToSmile/static/js/main.d399e5ed.js.map"
   },
   "entrypoints": [
     "static/css/main.5ed36d17.css",
-    "static/js/main.a43c53c8.js"
+    "static/js/main.d399e5ed.js"
   ]
 }
